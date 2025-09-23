@@ -55,7 +55,9 @@
    <a href="https://loja.uiclap.com/titulo/ua105628/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua105628.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
     
-##
+## 🔭 GitHub Stats:
+[![Ash's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=AshOrlowska&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/AshOrlowska)
+
 
 <!--
 **AshOrlowska/AshOrlowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
