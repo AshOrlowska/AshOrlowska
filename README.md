@@ -54,12 +54,28 @@
    <a href="https://loja.uiclap.com/titulo/ua78406/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua78406.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua105628/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua105628.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
-    
+
+
+
 ## 🔭 GitHub Stats:
-[![Ash's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=AshOrlowska&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/AshOrlowska)
+<div style= "display: inline_block">
+
+
+[![Ash's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=AshOrlowska&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/AshOrlowska) [![Ash Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshOrlowska&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@AshOrlowska)
+
+</div>
 
 
 <!--
+## Meus Certificados:
+ <div align="center" style = "display: inline_block">
+   <a href="https://www.udemy.com/certificate/UC-3e82810f-114c-462b-8587-98e613d7d567/" target="_blank"> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-3e82810f-114c-462b-8587-98e613d7d567.jpg?v=1726114759000" style={height="150", width="150"} target="_blank"/></a>
+      <a href="https://cursos.dankicode.com/api/certificados/ceb4a804-d061-4484-9e51-38e81f7fc7ec/" target="_blank"> <img src="https://github.com/AshOrlowska/certificados/blob/Master/Curso%20JavaScript%20Completo%20-%20Danki%20Code.png?raw=true" style={height="175", width="175"} target="_blank"/></a>
+   
+</div>
+
+
+
 **AshOrlowska/AshOrlowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
