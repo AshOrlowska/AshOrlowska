@@ -23,14 +23,15 @@
   <img align = "right" alt = "Ash-pic" height = "75" width = "75" border= "3px;" src = "https://avatars.githubusercontent.com/u/81665287?v=4">
   
 </div>
-  
-  ## ✨ Minhas Skills em Loading: 
+
+ 
+## ✨ Minhas Skills em Loading: 
  <div style = "display: inline_block"> <br>
    <img align = "center" alt = "Ash-MySQL" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
    <img align = "center" alt = "Ash-R" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg ">
-  </div>  
+  </div> 
     
-  ##
+ 
  ## ⚡ Minhas Redes:
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCFHAAeC6J7poqqa3RvBsuIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -42,7 +43,9 @@
   
   </div>
     
-##
+<!--## 🌐 Veja o projeto rodando
+[Clique aqui para acessar](https://seu-usuario.github.io/certificard/certificard.html)
+-->
 
 ## 📚 Meus Livros Para Compra:    
  <div align="center" style = "display: inline_block">
