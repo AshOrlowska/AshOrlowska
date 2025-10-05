@@ -27,8 +27,11 @@
  
 ## ✨ Minhas Skills em Loading: 
  <div style = "display: inline_block"> <br>
-   <img align = "center" alt = "Ash-MySQL" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
+   <img align = "center" alt="[SQL Server]" height= "30" width="40" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/SQL%20Server.svg">
+   <img align = "center" alt = "Ash-n8n" height = "30" width = "40" src =https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png ">
    <img align = "center" alt = "Ash-R" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg ">
+   
+   <img align = "center" alt = "Ash-MySQL" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
   </div> 
     
  
