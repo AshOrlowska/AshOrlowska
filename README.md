@@ -55,6 +55,7 @@
    <a href="https://www.consultoriamedusa.com/product-page/tranca-ruas-o-amor-vem-da-encruzilhada/"  target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_dfa852fb6bb54aa287236da14e6230af~mv2.jpg/v1/fill/w_190,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ASH%20CAPA.jpg" style={height="150", width="150"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua78406/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua78406.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua105628/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua105628.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
+  <a href="https://loja.uiclap.com/titulo/ua125156/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua125156.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
 
 
