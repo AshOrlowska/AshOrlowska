@@ -46,7 +46,7 @@
   
   </div>
     
-## 📚 Meus Livros Para Compra:    
+## 📚 Meus Livros Para Vocês Comprarem:    
  <div align="center" style = "display: inline_block">
    <a href="https://loja.uiclap.com/titulo/ua112128/" target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua112128.jpg" style={height="150", width="150"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua1311/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua1311.jpg" style={height="150", width="150"} target="_blank" /></a>
@@ -56,6 +56,7 @@
    <a href="https://loja.uiclap.com/titulo/ua78406/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua78406.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua105628/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua105628.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
   <a href="https://loja.uiclap.com/titulo/ua125156/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua125156.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua131051/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua131051.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
 
 
