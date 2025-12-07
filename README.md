@@ -59,8 +59,21 @@
    <a href="https://loja.uiclap.com/titulo/ua131051/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua131051.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
 
+## 📚 Minhas Antologias Para Vocês Comprarem:
+<div align="center" style = "display: inline_block">
+   <a href="https://www.consultoriamedusa.com/product-page/guardi%C3%A3o-das-areias" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_8310fd02516943fbbb3966fe9411a536~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_8310fd02516943fbbb3966fe9411a536~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/revista-digital-imagin%C3%A1rio" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_0de896f3f4cf42e7bd512eb573da5374~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_0de896f3f4cf42e7bd512eb573da5374~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/ascens%C3%A3o-do-sangue" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_ede7de558b58409e989acfe55cc01919~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_ede7de558b58409e989acfe55cc01919~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/halloween-cidade-das-travessuras" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_92d7d57a28d2448db582fd7e99282c3c~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_92d7d57a28d2448db582fd7e99282c3c~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/segredos-ancestrais" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_44fd23eb6e8f47a7b4a5e5339af461f6~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_44fd23eb6e8f47a7b4a5e5339af461f6~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/nephilins" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_c496a5999f5040cab3fe52249835fee5~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_c496a5999f5040cab3fe52249835fee5~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/pr%C3%A9-venda-projeto-%C3%B4mega" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_7a028699812949a6821b7552f41d6d24~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_7a028699812949a6821b7552f41d6d24~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+   <a href="https://www.consultoriamedusa.com/product-page/coven" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_4e383852d51e45cf9f495435f695bfab~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_4e383852d51e45cf9f495435f695bfab~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
+  <a href="https://www.consultoriamedusa.com/product-page/o-pacto" target="_blank"> <img src="https://static.wixstatic.com/media/4eb3ff_cfaa445fa6ef406294e3c78be511f85b~mv2.jpg/v1/fill/w_375,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4eb3ff_cfaa445fa6ef406294e3c78be511f85b~mv2.jpg" style={height="150", width="150"} target="_blank"/></a>
 
-<!--
+  </div>
+  
+  <!--
 ## 🔭 GitHub Stats:
 
 <div align = "center" >
