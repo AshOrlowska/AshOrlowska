@@ -58,6 +58,7 @@
     <a href="https://loja.uiclap.com/titulo/ua105628/"  target="_blank"> <img src="http://storage.googleapis.com/images.uiclap.com/capa/ua105628.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua131051/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua131051.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
    <a href="https://loja.uiclap.com/titulo/ua142985/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua142985.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
+   <a href="https://loja.uiclap.com/titulo/ua177582/"  target="_blank"> <img src="https://storage.googleapis.com/images.uiclap.com/capa/ua177582.jpg" style={height="142.5", width="142.5"} target="_blank"/></a>
     </div>
 
 ## 📚 Minhas Antologias Para Vocês Comprarem:
